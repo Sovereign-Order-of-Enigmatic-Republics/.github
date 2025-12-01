@@ -1,6 +1,6 @@
 # 🛡️ Constitution of the Sovereign Order of Enigmatic Republics (SOER)
 
-### © 2025 SovereignGlitch (Paul M. Roe)  
+### © 2025 EnigmaticGlitch (Paul M. Roe)  
 ### RHEA-UCM · ZADEIAN Sentinel · SOER Framework  
 ### Patent-Pending #63/796,404  
 ---
