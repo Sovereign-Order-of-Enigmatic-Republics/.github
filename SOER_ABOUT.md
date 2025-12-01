@@ -3,6 +3,22 @@ A Recursive Republic for the Post-CaaS World
 Founded by EnigmaticGlitch (Paul M. Roe)
 © 2025 RHEA-UCM · ZADEIAN-RHEA · SOER Framework · Patent-Pending #63/796,404
 
+███████╗ ██████╗ ███████╗██████╗ 
+██╔════╝██╔═══██╗██╔════╝██╔══██╗
+███████╗██║   ██║█████╗  ██████╔╝
+╚════██║██║   ██║██╔══╝  ██╔══██╗
+███████║╚██████╔╝███████╗██║  ██║
+╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+     S O V E R E I G N   O R D E R
+          O F   E N I G M A T I C
+                 R E P U B L I C S
+
+      🜂   R E C U R S I V E   S O V E R E I G N T Y   🜂
+
+      UCM → RHEA-UCM → ZADEIAN SENTINEL → S.O.E.R.
+      A Sovereign Republic for the Post-CaaS World
+      © 2025 SovereignGlitch · Patent-Pending #63/796,404
+
 
 🌐 What Is SOER?
 The Sovereign Order of Enigmatic Republics is a mathematically grounded, ethically structured, entropy-resilient republic built for a world where citizenship, autonomy, and privacy are being algorithmically eroded.
