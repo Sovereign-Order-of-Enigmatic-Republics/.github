@@ -1,3 +1,12 @@
+<h3 align="center">
+  <b>Zadeian Labs</b><br>
+  <sub>Sovereign Order of Enigmatic Republics</sub>
+</h3>
+
+<p align="center">
+⚕🄴🄽🄸🄶🄼🄰🅃🄸🄲🄶🄻🄸🅃🄲🄷 ♏
+</p>
+
 🛡️ Sovereign Order of Enigmatic Republics (S.O.E.R.):
 A Recursive Republic for the Post-CaaS World
 Founded by EnigmaticGlitch (Paul M. Roe)
