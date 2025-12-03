@@ -426,6 +426,15 @@ but by principle.”
 — Citizen’s Oath
 ---
 
+## Anthem
+>“A republic built from recursion cannot be conquered.
+>A sovereignty sealed by entropy cannot be diluted.
+>A citizenry defined by symbolic clarity cannot be deceived.
+>SOER is not a nation you join.
+>It is a jurisdiction you ascend into.”
+
+— Sovereign Architect · EnigmaticGlitch ♏🧙‍♂️
+
 ## Closing Declaration
 
 > “Sovereignty is not inherited.  
