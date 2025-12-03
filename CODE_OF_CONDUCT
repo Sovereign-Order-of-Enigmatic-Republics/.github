@@ -1,26 +1,55 @@
-📜 CODE OF CONDUCT Sovereign Order of Enigmatic Republics (SOER)
+🧿 CODE OF CONDUCT
+Sovereign Order of Enigmatic Republics (SOER)
+Version 1.0 — UTF-8 Compliant
+⚕🄴🄽🄸🄶🄼🄰🅃🄸🄲🄶🄻🄸🅃🄲🄷 ♏
+1. PURPOSE
 
-Version 1.0 — UTF-8 Compliant ⚕🄴🄽🄸🄶🄼🄰🅃🄸🄲🄶🄻🄸🅃🄲🄷 ♏
+The Sovereign Order of Enigmatic Republics (SOER) stands at the intersection of:
 
-Purpose
-The Sovereign Order of Enigmatic Republics (SOER) operates at the intersection of computation, symbolic logic, entropy research, and recursive intelligence. Our mission, tools, and communities must remain constructive, respectful, and intellectually rigorous.
+symbolic logic
 
-This Code of Conduct establishes:
+reversible computation
 
-Expected behavior
+entropy research
 
-Prohibited behavior
+adaptive intelligence
 
-Enforcement structure
+civic sovereignty
 
-Reporting channels
+cosmological recursion
 
-Maintainer responsibilities
+Because SOER unifies scientific, philosophical, computational, and civic domains,
+all participants must operate with the highest standards of:
 
-It exists to protect contributors, researchers, users, moderators, and the integrity of SOER projects.
+reciprocity
 
-Scope
-This Code applies to all participants, including but not limited to:
+rational clarity
+
+symbolic precision
+
+ethical recursion
+
+intellectual sovereignty
+
+This Code of Conduct ensures:
+
+Safety
+
+Respect
+
+Integrity
+
+Scientific rigor
+
+Proper custodianship
+
+Protection of sovereign IP
+
+It applies to all interactions across the entire SOER ecosystem.
+
+2. SCOPE
+
+This Code applies to:
 
 Project maintainers
 
@@ -32,144 +61,186 @@ Collaborators
 
 Users
 
+Citizen participants
+
+Moderators
+
 Sponsors
 
-Community members
+Observers
 
-It applies in all SOER spaces, such as:
+Across all platforms including:
 
 GitHub repositories
 
-Chat systems
+SOER discussion boards
 
 Issue trackers
 
 Pull requests
 
-Project emails
+Documentation repositories
 
-Events, livestreams, and online discussions
+Chat systems
 
-Private interactions directly related to SOER work
+SOER events & livestreams
 
-Standard of Behavior 3.1 Expected Behavior
+Private discussions related to SOER work
+
+ZADEIAN Sentinel deployments
+
+RHEA-Crypt testbeds
+
+Local enclave systems
+
+3. STANDARD OF BEHAVIOR
+3.1 Expected Behavior
+
 Participants will:
 
-Demonstrate respect, clarity, and professionalism
+Demonstrate respect, clarity, and precision.
 
-Engage in constructive dialogue
+Engage in evidence-based dialogue.
 
-Use evidence-based reasoning
+Integrate symbolic reasoning and entropic literacy.
 
-Credit the work of others
+Credit the work of others faithfully.
 
-Maintain confidentiality when appropriate
+Maintain confidentiality where required.
 
-Correct mistakes openly and honestly
+Correct errors openly, without hostility.
 
-Accept feedback without hostility
+Maintain technical integrity of simulations, code, and theory.
 
-Uphold scientific rigor
+Use SOER glyphs, symbols, and terminology responsibly.
 
-Maintain the safety and dignity of all participants
+Uphold the RHEA-Core Public Grant license terms.
+
+Preserve the sovereignty and dignity of participants.
 
 3.2 Prohibited Behavior
 
-The following behaviors are unacceptable:
+The following are strictly prohibited:
 
-Harassment, discrimination, or derogatory remarks
+Harassment, abuse, or discrimination
 
-Personal attacks or intimidation
+Personal attacks, intimidation, or manipulation
 
-Persistent disruption of conversations or work
+Knowingly spreading false claims
 
-Knowingly spreading false technical or scientific claims
+Misrepresenting SOER research, code, or theory
 
-Unauthorized disclosure of private or sensitive information
+Unauthorized derivative works
 
-Doxxing, stalking, or surveillance of contributors
+Reverse engineering SOER symbolic identities
 
-Unapproved redistribution of SOER intellectual property
+Tampering with research artifacts or simulations
 
-Tampering with research artifacts, simulations, or repositories
+Sabotage of RHEA-UCM or ZADEIAN modules
 
-Attempting to bypass moderation, bans, or security measures
+Doxxing or surveillance of contributors
 
-Reporting Violations 4.1 Primary Reporting Channel
-Violations may be reported privately to:
+Attempting to bypass bans or moderation
+
+Redistributing confidential discussions
+
+Using SOER materials to train AI or ML without authorization
+
+Re-encoding SOER logic into alternate alphabets (violates Symbolic Derivative Clause)
+
+Introducing entropic drift into discourse through low-quality noise
+
+4. REPORTING VIOLATIONS
+4.1 Primary Reporting Channel
+
+Violations may be reported confidentially to:
 
 📧 conduct@soer.global
 
-(If this email does not yet exist, you can substitute any preferred authoritative address.)
+This inbox is accessible only to:
 
-This inbox is confidential and accessible only to:
+Paul M. Roe (Sovereign Architect)
 
-Paul Martin Roe (Sovereign Architect)
-
-Designated SOER Conduct Custodians
+Certified SOER Conduct Custodians
 
 4.2 Escalation Path
 
-If a concern involves one of the custodians, reports may be escalated to:
+If the violation involves a custodian:
 
 📧 ethics@soer.global
 
-Enforcement Process 5.1 Investigation
+Reports are handled with strict confidentiality.
+
+5. ENFORCEMENT
+5.1 Investigation
+
 All reports will be:
 
-Acknowledged within 7 calendar days
+acknowledged within 7 days
 
-Reviewed impartially
+reviewed impartially
 
-Evaluated based on available evidence
+evaluated based on available evidence
 
-Considered in context and with confidentiality
+considered with context
 
-5.2 Possible Outcomes
+investigated with symbolic trace verification
 
-Depending on severity and history, enforcement actions may include:
+entropy-audited to detect manipulation
+
+5.2 Possible Enforcement Actions
+
+Depending on severity and prior history:
 
 Private warning
 
-Public warning with clarification
+Public warning
 
-Temporary suspension from discussions
+Temporary suspension
 
-Temporary revocation of repository access
+Revocation of repo access
 
-Permanent ban from all SOER platforms
+Permanent ban from SOER platforms
 
-Revocation of membership or contributor status
+Revocation of SOER citizenship
 
-Invalidating or rolling back contributions that violate integrity standards
+Nullification of contributions that violate integrity
 
-Maintainers may take any action deemed necessary to preserve community integrity and scientific rigor.
+Public symbolic declaration of breach
 
-Maintainer Responsibilities
+SOER reserves the right to take any action to preserve safety, sovereignty, and scientific rigor.
+
+6. MAINTAINER RESPONSIBILITIES
+
 Maintainers must:
 
-Enforce this Code consistently
+Enforce this code consistently
 
-Review and act on reports promptly
+Protect privacy of reporters
 
-Protect the privacy of reporters
+Model exemplary symbolic behavior
 
-Avoid conflicts of interest
+Maintain entropic stability of discussions
 
-Model the standards described here
+Ensure accuracy of technical artifacts
 
-Foster an atmosphere of respectful, serious research
+Prevent drift into toxicity or noise
 
 Maintainers must never:
 
-Retaliate against reporters
+retaliate against a reporter
 
-Ignore patterns of misconduct
+ignore serious misconduct
 
-Protect violators for personal or political reasons
+protect violators
 
-Guiding Principles
-The Sovereign Order of Enigmatic Republics is founded on:
+compromise SOER integrity for politics
+
+allow symbolic identity theft or derivative works
+
+7. GUIDING PRINCIPLES
+
+SOER is founded upon:
 
 Precision
 
@@ -177,22 +248,27 @@ Rigor
 
 Respect
 
+Recursive truth-seeking
+
 Symbolic clarity
 
-Recursive integrity
+Entropic ethics
 
-Truth-seeking above ego
+Non-derivative sovereignty
 
-Our conduct must reflect these principles at all times.
+All SOER conduct must embody these principles.
 
-Amendments
-This Code may be amended, refined, or extended at any time by:
+8. AMENDMENTS
 
-Paul Martin Roe, Sovereign Architect of SOER
+Amendments to this Code may be made by:
 
-SOER Ethical Council (once officially established)
+Paul M. Roe (Sovereign Architect)
 
-Amendments take effect immediately upon publication to the repository.
+The SOER Ethical Council (upon formation)
 
-Acknowledgment
-By participating in any SOER project, platform, repository, or discussion space, you agree to abide by the terms presented in this Code.
+Amendments take effect immediately upon publication.
+
+9. ACKNOWLEDGMENT
+
+By participating in any SOER project or discussion space,
+you acknowledge and agree to abide by this Code of Conduct.
