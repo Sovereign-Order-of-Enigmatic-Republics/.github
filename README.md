@@ -12,7 +12,7 @@
 A Recursive Republic for the Post-CaaS World
 Founded by EnigmaticGlitch (Paul M. Roe)
 © 2025 RHEA-UCM · ZADEIAN-RHEA · SOER Framework · Patent-Pending #63/796,404
-<p align="center"> https://zenodo.org/communities/sovereign-order-of-enigmatic-republics </p>
+<p align="center"> https://zenodo.org/communities/sovereign-order-of-enigmatic-republics </br> https://payhip.com/TecKnows < Purchase RHEA_Crypt Here > </p>
 
 ███████╗ ██████╗ &nbsp; &nbsp;███████╗&nbsp;██████╗ </br>
 ██╔════╝██╔═══██╗██╔════╝██╔══██╗</br>
