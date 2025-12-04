@@ -7,11 +7,12 @@
 ⚕🄴🄽🄸🄶🄼🄰🅃🄸🄲🄶🄻🄸🅃🄲🄷 ♏
 </p>
 
+
 🛡️ Sovereign Order of Enigmatic Republics (S.O.E.R.):
 A Recursive Republic for the Post-CaaS World
 Founded by EnigmaticGlitch (Paul M. Roe)
 © 2025 RHEA-UCM · ZADEIAN-RHEA · SOER Framework · Patent-Pending #63/796,404
-https://zenodo.org/communities/sovereign-order-of-enigmatic-republics
+<p align="center"> https://zenodo.org/communities/sovereign-order-of-enigmatic-republics </p>
 
 ███████╗ ██████╗ ███████╗██████╗ 
 ██╔════╝██╔═══██╗██╔════╝██╔══██╗
