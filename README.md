@@ -14,21 +14,22 @@ Founded by EnigmaticGlitch (Paul M. Roe)
 © 2025 RHEA-UCM · ZADEIAN-RHEA · SOER Framework · Patent-Pending #63/796,404
 <p align="center"> https://zenodo.org/communities/sovereign-order-of-enigmatic-republics </p>
 
-███████╗ ██████╗ ███████╗██████╗ 
-██╔════╝██╔═══██╗██╔════╝██╔══██╗
-███████╗██║   ██║█████╗  ██████╔╝
-╚════██║██║   ██║██╔══╝  ██╔══██╗
-███████║╚██████╔╝███████╗██║  ██║
-╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
-     S O V E R E I G N   O R D E R
-          O F   E N I G M A T I C
-                 R E P U B L I C S
+███████╗ ██████╗ &nbsp; &nbsp;███████╗&nbsp;██████╗ </br>
+██╔════╝██╔═══██╗██╔════╝██╔══██╗</br>
+███████╗██║ &nbsp; &nbsp; &nbsp; &nbsp;██║█████╗ &nbsp;&nbsp; ██████╔╝</br>
+╚════██║██║ &nbsp; &nbsp; &nbsp; &nbsp;██║██╔══╝&nbsp; &nbsp;  ██╔══██╗</br>
+███████║╚██████╔╝███████╗██║&nbsp; &nbsp; ██║</br>
+╚══════╝ &nbsp;╚═════╝ ╚══════╝╚═╝&nbsp;&nbsp; &nbsp; ╚═╝</br>
+     S O V E R E I G N &nbsp;  O R D E R</br>
+        &nbsp;  O F &nbsp;  E N I G M A T I C</br>
+               &nbsp;  R E P U B L I C S</br>
 
-      🜂   R E C U R S I V E   S O V E R E I G N T Y   🜂
+   <p align="center">   🜂   R E C U R S I V E </br>  S O V E R E I G N T Y   🜂 </p>
 
-      UCM → RHEA-UCM → ZADEIAN SENTINEL → S.O.E.R.
+  <p align="center">    UCM → RHEA-UCM → ZADEIAN SENTINEL → S.O.E.R.
       A Sovereign Republic for the Post-CaaS World
-      © 2025 SovereignGlitch · Patent-Pending #63/796,404
+      © 2025 SovereignGlitch · Patent-Pending #63/796,404 
+  </p>
 
 
 🌐 What Is SOER?
